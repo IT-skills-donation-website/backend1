@@ -28,7 +28,6 @@ PItem.java -LOC- 30
 POrder.java -LOC- 35
 
 
-![image](https://github.com/IT-skills-donation-website/backend1/assets/105649474/e0b32563-7dea-4ab8-915e-db34dd88adb9)
 
 
 8 repository
@@ -48,4 +47,6 @@ BoardService.java -LOC- 27
 JwtService.java -LOC- 13
 JwtServiceImpl.java -LOC- 72
 BackendApplication.java -LOC- 13
-![image](https://github.com/IT-skills-donation-website/backend1/assets/105649474/23659b68-4e2d-4265-8c33-b2d8c2f67726)
+
+![image](https://github.com/IT-skills-donation-website/backend1/assets/105649474/6126b011-b2f2-4db5-92b7-1b9298ffbe5b)
+
